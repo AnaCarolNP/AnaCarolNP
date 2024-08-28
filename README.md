@@ -5,11 +5,11 @@
 <p align="justify"> Sou formada em Relações Econômicas Internacionais, estudante de Análise e Desenvolvimento de Sistemas e extremamente curiosa pelo mundo da tecnologia. Trabalho como Product Owner com foco em dados, aliás, estou buscando me especializar cada vez mais nessa área para me tornar uma "fullstack em dados".</p>
 <p align="justify"> I hold a degree in International Economic Relations and am currently pursuing studies in Systems Analysis and Development. With a deep curiosity for technology, I work as a Product Owner with a strong focus on data. I am committed to continuously expanding my expertise in this field, with the goal of becoming a 'full-stack data professional'.</p>
 
-<h3>Caso queira saber um pouco mais sobre minha trajetória, entre em contato comigo pelo Linkedin | <br> If you'd like to know more about my journey, feel free to connect with me on LinkedIn.</h3>
+<h3>Caso queira saber um pouco mais sobre minha trajetória, entre em contato comigo pelo Linkedin <br> If you'd like to know more about my journey, feel free to connect with me on LinkedIn.</h3>
 
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/anacarolnazareth/)
 
-<h2> 😄 Prononomes: Ela/Dela - She/Her </h2>
+<h3> 😄 Prononomes: Ela/Dela - She/Her </h3>
   
 <h2>Habilidades/Skills</h2>
   
